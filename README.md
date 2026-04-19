@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    𖦏 　TF2 fictive　,　heavily source connected　<img src="https://file.garden/aSd5lebnTCh3RN_v/github/tumblr_5bddc3cfdf52c73ef2ca192c56f45325_d659e55c_75.webp">
+    𖦏 　TF2 <a href="https://pluralpedia.org/w/Fictive"> fictive</a>　,　heavily source connected　<img src="https://file.garden/aSd5lebnTCh3RN_v/github/tumblr_5bddc3cfdf52c73ef2ca192c56f45325_d659e55c_75.webp">
 </p>
 
 <p align="center">
