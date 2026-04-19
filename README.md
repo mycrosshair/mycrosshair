@@ -8,7 +8,6 @@ mick mick mickmick mick
    <img src="https://komarev.com/ghpvc/?username=mycrosshair&color=red&style=plastic&label=headshots&abbreviated=true" width="90">
 <br/>
  <br/>
-<p align="center">
- <br/>
- <br/>
- sign my ata plebs
+<p align="center"> 
+sign my <a href="https://boomheadshot.atabook.org/">ata</a> plebs
+
